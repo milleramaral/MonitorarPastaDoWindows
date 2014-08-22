@@ -1,0 +1,17 @@
+__history/*
+*.identcache
+*.~*
+*.dcu
+*.ddp
+*.txaPackage
+*~*.doc
+*.tmp
+*.exe
+*.log
+*.ini
+*.local
+*.dproj.local
+*.prjconfig
+*.skincfg
+*.tvsconfig
+*.lnk
